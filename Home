@@ -1,0 +1,46 @@
+<html>
+<head>
+	<title>Greenlink</title>
+	<link rel="stylesheet" type="text/css" href="CSS\CSS-My-Webpage.css">
+	<link rel="stylesheet" type="text/css" href="CSS\bootstrap.min.css">
+	<script type="text/javascript" src="JS\JS.js"></script>
+	<style type="text/css"> #header-img { margin-left: 50%; } iframe { margin-left: 12%;margin-top:5%;} #Home{background-color: #FFFF00;
+               color: black;} </style><style type="text/css"> #header-img { margin-left: 50%; }{}
+					                 ul { margin: 0; padding: 0; ; list-style-type: none;} li{display: inline-block;}</style>
+</head>
+<body>
+	<script src="JS\bootstrap.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="
+	sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+  integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+	<div class="header"> <img src="Images\Greenlink.png" width="300px" id="header-img"> </div>
+	<div class="Nav"><ul>
+		   <li><a href="Greenlink.html" id="Home">Home </a> </li>
+	     <li><a href="About.html" id="About">About</a></li>
+	     <li><a href="Pictures.html" id="Pictures">Pictures</a></li>
+	     <li><a href="#">Components</a></li>
+	     <li><a href="Form2.html" id="Form">Form</a></li>
+	     <li><a href="Radio.html" id="Radio">Radio</a></li>
+			 <li><a href="https://www.facebook.com/11DEADBOY" id="facebook">facebook</a></li>
+
+		 </ul>
+	</div>
+
+	<div class="row">
+	<div class="leftcol"> <img src="Images\Memories.jpg" align="center">
+	                      <img src="Images\Memories1.jpg" width="110%">
+	</div>
+
+
+	<div class="midcol">  <h2 align="center" class="subhead"> <u> Welcome to the Official Website of Greenlink</u></h2>
+		                  <iframe width="1102" height="620" src="https://www.youtube.com/embed/nA2O53yAWl8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	                       </div>
+    </div>
+
+
+
+</body>
+
+</html>
