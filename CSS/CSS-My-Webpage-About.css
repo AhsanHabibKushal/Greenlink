@@ -1,0 +1,25 @@
+body {margin: 0; }
+h1 { color: #7FFF00; }
+.header {background-color: #2F4F4F;
+         padding: 15px;}
+.subhead{ color: #7FFF00; }
+.Nav { overflow: hidden;
+       background-color: #ADFF2F;
+       padding: 5px; }
+.Nav a {float: left;
+        color: black;
+	    display: block;
+	    text-align: center;
+	    padding: 5px 20px; }
+    .Nac a #facebook {float: right;}
+.Nav a:hover { background-color: #FFFF00;
+               color: black; }
+.leftcol { width: 22%;
+           background-color: #2F4F4F;
+           padding: 0px 25px 1000px;
+           }
+.midcol { width: 78%;
+	      background-image: url(Memories.jpg);
+	     background-color: #2E8B57;
+          padding: 0px 2px 1000px;
+            }
